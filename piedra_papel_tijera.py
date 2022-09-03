@@ -1,5 +1,4 @@
 import random
-from traceback import print_tb
 
 def eleccion(numero):
     elegido = str()
